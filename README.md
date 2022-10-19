@@ -7,3 +7,5 @@
 
 
 - Link al Google Earth_RUTA C: https://earth.google.com/web/search/Plaza+Chacras+de+Coria,+Italia,+Luj%c3%a1n+de+Cuyo,+Mendoza/@-32.95152549,-68.85877565,864.16178893a,19041.60162585d,30y,0h,0t,0r/data=CigiJgokCb9HCPFmeUDAEZq5n0Lve0DAGWoywY2jNVHAITNLFgYGOFHAMikKJwolCiExZmRvWkgtVFl1U0tDRDhhUlZfbWJzal9lMkZ1aFZYekQgAQ
+
+Vistas: https://www.figma.com/team_invite/redeem/tJFE7BuYoHKDnqrv9YF5NU
