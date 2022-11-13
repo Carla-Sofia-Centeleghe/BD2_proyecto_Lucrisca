@@ -92,5 +92,31 @@
             "id_empleado" : 1383649,
             "nombre" : "Anne",
             "apellido" : "Burgess"}
+    ],
+    "patentes_autorizadas":[{
+        "patente_vehiculo" : "ZZZZ4257"
+        },
+        {
+        "patente_vehiculo" : "EEEE4261"   
+        },
+        {
+        "patente_vehiculo" : "GGGG4271"   
+        },
+        {
+        "patente_vehiculo" : "EEEE4294"   
+        },
+        {
+        "patente_vehiculo" : "YYYY4301"   
+        },
+        {
+        "patente_vehiculo" : "VVVV4311"   
+        },
+        {
+        "patente_vehiculo" : "VVVV4324"   
+        },
+        {
+        "patente_vehiculo" : "JJJJ4287"   
+        }
     ]
+        
 }
