@@ -224,5 +224,27 @@
         "apellido" : "Vaughan"
         }
 
+    ],
+    "patentes_autorizadas":[{
+        "patente_vehiculo" : "MMMM5284"
+        },
+        {
+        "patente_vehiculo" : "IIII5297"   
+        },
+        {
+        "patente_vehiculo" : "RRRR5301"   
+        },
+        {
+        "patente_vehiculo" : "WWWW5317"   
+        },
+        {
+        "patente_vehiculo" : "GGGG5321"   
+        },
+        {
+        "patente_vehiculo" : "ZZZZ5331"   
+        },
+        {
+        "patente_vehiculo" : "YYYY5347"   
+        }
     ]
 }

@@ -95,5 +95,46 @@
         "id_empleado" : 1090991,
         "nombre" : "Adam",
         "apellido" : "Terry"}
+    ],
+    "patentes_autorizadas":[{
+        "patente_vehiculo" : "LLLL1291"
+        },
+        {
+        "patente_vehiculo" : "LLLL1307"   
+        },
+        {
+        "patente_vehiculo" : "FFFF1311"   
+        },
+        {
+        "patente_vehiculo" : "DDDD1321"   
+        },
+        {
+        "patente_vehiculo" : "SSSS1334"   
+        },
+        {
+        "patente_vehiculo" : "AAAA1344"   
+        },
+        {
+        "patente_vehiculo" : "UUUU1357"   
+        },
+        {
+        "patente_vehiculo" : "DDDD1361"   
+        },
+        {
+        "patente_vehiculo" : "HHHH1374"   
+        },
+        {
+        "patente_vehiculo" : "FFFF1387"   
+        },
+        {
+        "patente_vehiculo" : "SSSS1394"   
+        },
+        {
+        "patente_vehiculo" : "UUUU1401"   
+        },
+        {
+        "patente_vehiculo" : "MMMM1414"   
+        }        
     ]
+    
 }

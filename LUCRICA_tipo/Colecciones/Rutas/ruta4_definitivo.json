@@ -90,5 +90,33 @@
         "nombre" : "Trevor",
         "apellido" : "Davidson"
         }
+    ],
+    "patentes_autorizadas":[{
+        "patente_vehiculo" : "XXXX5501"
+        },
+        {
+        "patente_vehiculo" : "VVVV5511"   
+        },
+        {
+        "patente_vehiculo" : "DDDD5521"   
+        },
+        {
+        "patente_vehiculo" : "CCCC5534"   
+        },
+        {
+        "patente_vehiculo" : "PPPP5541"   
+        },
+        {
+        "patente_vehiculo" : "HHHH5551"   
+        },
+        {
+        "patente_vehiculo" : "EEEE5561"   
+        },
+        {
+        "patente_vehiculo" : "AAAA5571"   
+        },
+        {
+        "patente_vehiculo" : "WWWW5581"   
+        }
     ]
 }
